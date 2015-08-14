@@ -12,20 +12,7 @@ public class ClientPrefference {
 	
 
 
-	public ClientPrefference(double socialParameter, double envirmentParameter,
-			double govermentalCoperation) {
-		
-		this.socialParameter = socialParameter;
-		this.envirmentParameter = envirmentParameter;
-		this.govermentalCoperation = govermentalCoperation;
-	}
-
 	
-	public ClientPrefference(double socialParameter, double envirmentParameter) {
-		
-		this.socialParameter = socialParameter;
-		this.envirmentParameter = envirmentParameter;
-	}
 
 	
 
