@@ -1,0 +1,49 @@
+package clientConnection.com;
+
+public class ClientPrefference {
+	
+	
+	
+	private double socialParameter;
+	private double envirmentParameter;
+	private double govermentalCoperation;
+	
+	
+	public ClientPrefference(){
+		this.socialParameter =  1;
+		
+	}
+
+
+	public double getSocialParameter() {
+		return socialParameter;
+	}
+
+
+	public void setSocialParameter(double socialParameter) {
+		this.socialParameter = socialParameter;
+	}
+
+
+	public double getEnvirmentParameter() {
+		return envirmentParameter;
+	}
+
+
+	public void setEnvirmentParameter(double envirmentParameter) {
+		this.envirmentParameter = envirmentParameter;
+	}
+
+
+	public double getGovermentalCoperation() {
+		return govermentalCoperation;
+	}
+
+
+	public void setGovermentalCoperation(double govermentalCoperation) {
+		this.govermentalCoperation = govermentalCoperation;
+	}
+	
+	
+
+}

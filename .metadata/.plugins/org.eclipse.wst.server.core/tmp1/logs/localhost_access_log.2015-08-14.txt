@@ -1,0 +1,6 @@
+127.0.0.1 - - [14/Aug/2015:12:49:15 +0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Aug/2015:12:49:15 +0300] "GET /com.vogella.jersey.first/WEB-INF/classes/com/vogella/jersey/first/Hello.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [14/Aug/2015:12:49:53 +0300] "GET /com.vogella.jersey.first/WEB-INF/classes/com/vogella/jersey/first/Hello.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [14/Aug/2015:12:49:53 +0300] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [14/Aug/2015:14:34:41 +0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [14/Aug/2015:14:34:41 +0300] "GET /CrunchifyTutorials/WEB-INF/classes/com/crunchify/tutorials/CrunchifyRESTService.java HTTP/1.1" 404 949
